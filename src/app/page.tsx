@@ -82,7 +82,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <h1 className="text-4xl lg:text-6xl font-bold tracking-tight">
+                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight">
                   Pomagam pieniądzom pracować spokojnie,{' '}
                   <span className="text-primary">Bez ryzyka, bez stresu, z pełnym zrozumieniem.</span>
                 </h1>
